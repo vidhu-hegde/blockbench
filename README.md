@@ -1,6 +1,6 @@
 # blockbench - Context Weaver
 
-Not-Notion :)
+- read my substack post to understand more - https://vidhatrihegde.substack.com/p/your-workspace-doesnt-have-a-content?r=2y508l
 
 ## Run locally
 
